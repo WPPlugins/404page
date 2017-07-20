@@ -117,7 +117,7 @@ If you are a theme developer you can add native support for the 404page plugin t
 
 == Changelog ==
 
-= 3.0 (2017-07-05)
+= 3.0 (2017-07-05) =
 * new feature to force 404 error after loading page
 * new feature to disable URL autocorrection guessing 
 * finally removed Polylang stuff disabled in 2.4
